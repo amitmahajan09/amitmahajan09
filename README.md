@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit Mahajan
-- 👀 I’m interested in Office 365, AWS, Microsoft Azure, Network secuirty solutions
-- 🌱 I’m currently learning more about cloud technologies like AWS, MS Azure 
-- 💞️ I’m looking to collaborate on AWS, MS Azure, Fortigate.
+- 👀 I’m interested in coding, eating , sleeping then again coding
+- 🌱 I’m currently learning more about Flutter and React Native
+- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me ...You can reach me via writing as email to amitku.mahajan@gmail.com
 
 <!---
