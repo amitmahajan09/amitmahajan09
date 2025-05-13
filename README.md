@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m a passionate technology leader with 20+ years of exp
 
 ### 📁 Featured Projects:
 - 🔬 [Heart Disease Prediction](./Data-Science-Portfolio/Heart-Disease-Prediction) – Classification using Random Forests
-- 🔬 [Capstone Project (Covid 19)](./Data-Science-AI-Portfolio/Capstone Project)
+- 🔬 [Capstone Project (Covid 19)](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/blob/main/Capstone%20Project%20(Covid%2019)/Capstone%20Project%20(Covid%2019).ipynb)
 - 🔬 [Capstone Project (Covid 19)](./Data-Science-AI-Portfolio/Capstone Project)
 - 🔬 [Heart Disease Prediction](./Data-Science-AI-Portfolio/Capstone Project)
 - (./Heart-Disease-Prediction)
