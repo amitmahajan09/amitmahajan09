@@ -13,6 +13,8 @@ Welcome to my GitHub! I’m a passionate technology leader with 20+ years of exp
 
 ### 📚 Education & Upskilling:
 - 🎓 Post Graduate Certification in Data Science & AI – *IIT Roorkee + Intellipaat*
+- 🧪 Sql Server Certification - *Intellipaat*
+- 🧪 Data Science Certification - *Intellipaat*
 - 🧪 Power BI Developer Certification – *Intellipaat*
 - 💡 Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, LangChain
 
