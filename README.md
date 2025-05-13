@@ -22,6 +22,7 @@ Welcome to my GitHub! I’m a passionate technology leader with 20+ years of exp
 
 ### 📁 Featured Projects:
 - 🔬 [Heart Disease Prediction](./Data-Science-Portfolio/Heart-Disease-Prediction) – Classification using Random Forests
+- Capstone Project (Covid 19)
 - 📊 Capstone – Customer Churn Prediction & Dashboard
 - 🤖 Capstone - Covid 19
 - 📊 Capstone - Walmart
