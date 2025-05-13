@@ -12,6 +12,8 @@ Welcome to my GitHub! I’m a passionate technology leader with 20+ years of exp
 - ☁️ Cloud & Server Solutions (AWS, Azure, O365, Linux/Windows)
 
 ### 📚 Education & Upskilling:
+- 🎓 MBA IT from Symbosis Pune
+- 🎓 Master of Computers from 
 - 🎓 Post Graduate Certification in Data Science & AI – *IIT Roorkee + Intellipaat*
 - 🧪 Sql Server Certification - *Intellipaat*
 - 🧪 Data Science Certification - *Intellipaat*
