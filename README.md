@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Kumar Mahajan
 
-🎯 **Data Science & AI Enthusiast | IT Head | Full-Stack Tech Professional**
+🎯 **Data Science & AI Enthusiast | IT Head |**
 
 Welcome to my GitHub! I’m a passionate technology leader with 20+ years of experience in **IT infrastructure, server/networking, and ERP systems**, now diving deep into the world of **Data Science, Machine Learning, and AI**.
 
