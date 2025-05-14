@@ -12,13 +12,13 @@ Welcome to my GitHub! I’m a passionate technology leader with 20+ years of exp
 - ☁️ Cloud, Server Solutions, Network Security (AWS, Azure, O365, Windows/Linux server setup, Endpoint (Sophos, Forti EMS) and Gateway level security (Fortigate))
 
 ### 📚 Education & Upskilling:
+- 🎓 Post Graduate Certification in Data Science & AI – *IIT Roorkee + Intellipaat*
 - 🎓 MBA IT from Symbosis Pune
 - 🎓 Master of Computers - *NIELIT*
-- 🎓 Post Graduate Certification in Data Science & AI – *IIT Roorkee + Intellipaat*
-- 🧪 Sql Server Certification - *Intellipaat*
-- 🧪 Data Science Certification - *Intellipaat*
-- 🧪 Power BI Developer Certification – *Intellipaat*
-- 💡 Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, Machine Learning Models, Neural Network, FFN, CNN, LangChain, Huggingface, OpenAI, RAG
+- 🗃️ Sql Server Certification - *Intellipaat*
+- 📜 Data Science Certification - *Intellipaat*
+- 📊 Power BI Developer Certification – *Intellipaat*
+- 🧠 Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, Machine Learning Models, Neural Network, FFN, CNN, LangChain, Huggingface, OpenAI, RAG
 
 ### 📁 Featured Projects:
 - 📊 [Capstone Project - Covid 19](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/blob/main/Capstone%20Project%20(Covid%2019)/Capstone%20Project%20(Covid%2019).ipynb)
