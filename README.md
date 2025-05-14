@@ -21,10 +21,9 @@ Welcome to my GitHub! I’m a passionate technology leader with 20+ years of exp
 - 💡 Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, LangChain
 
 ### 📁 Featured Projects:
-- 📊 [Capstone Project (Covid 19)](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/blob/main/Capstone%20Project%20(Covid%2019)/Capstone%20Project%20(Covid%2019).ipynb)
-- 🤖 [Capstone Project Walmart](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Walmart)
-- 🔬 [Capstone Project Netflix Movie Recommendation)](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Netflix)
-- 📊 Capstone – Customer Churn Prediction & Dashboard
+- 📊 [Capstone Project - Covid 19](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/blob/main/Capstone%20Project%20(Covid%2019)/Capstone%20Project%20(Covid%2019).ipynb)
+- 🤖 [Capstone Project - Walmart](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Walmart)
+- 🔬 [Capstone Project - Netflix Movie Recommendation)](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Netflix)
 
 ### 🚀 Career Goals:
 I’m actively expanding my portfolio and open to:
