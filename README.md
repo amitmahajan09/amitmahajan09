@@ -36,15 +36,15 @@
 🔬 [Capstone Project - Netflix Movie Recommendation](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Netflix)
 
 ### 🚀 Career Focus & Strategic Goals
-I am currently scaling my portfolio and am open to high-impact opportunities in:
+I am actively scaling my portfolio and am open to high-impact opportunities in:
 
-💼 AI Solution Architecture & Leadership: Design and implementation of Agentic Workflows that bridge legacy ERP systems (Epicor, Infor) with Generative AI.
+🤖 Agentic Workflow Automation: Designing and deploying autonomous AI agents using n8n to bridge legacy ERP systems (Epicor, Infor) with high-reasoning LLMs.
 
-🌍 Strategic Consulting: Helping businesses navigate Financial & Statutory Compliance (GST/MSME) through AI-driven automation and "Private RAG" architectures.
+💼 AI Solutions Architecture: Implementing Model Context Protocol (MCP) and secure "Private RAG" architectures for enterprise-grade data intelligence.
 
-🏗️ SaaS Development: Scaling automated compliance infrastructure designed for the 1 million+ MSME sector in India.
+🌍 Strategic Compliance Consulting: Helping businesses automate GST and MSME Statutory Compliance through custom-built, AI-driven auditing tools.
 
-🛡️ Enterprise AI Security: Implementing Model Context Protocol (MCP) and secure AI frameworks for sensitive corporate data environments.
+🏗️ SaaS Development (A-Square Info Solutions): Scaling a suite of open-source financial tools (GSTRECO / LedgerLens) specifically for the 1 million+ Indian MSME sector.
 
 ### New Additions: Claude Extended Thinking, Model Context Protocol (MCP), Agentic Workflows, n8n Automation.
 
