@@ -21,9 +21,9 @@
 - 🧠 Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, Machine Learning Models, Neural Network, FFN, CNN, LangChain, Huggingface, OpenAI, RAG
 
 ### 📁 Featured Projects:
-⚖️ [GSTRECO | AI-Powered Tax Reconciliation
+⚖️ GSTRECO | AI-Powered Tax Reconciliation
     Tech: Python, Flask, Pandas, API.
-    Impact: Automates complex GSTR-2B reconciliation for Indian MSMEs to prevent Input Tax Credit (ITC) leakage.](https://github.com/amitmahajan09/GSTReco)
+    Impact: Automates complex GSTR-2B reconciliation for Indian MSMEs to prevent Input Tax Credit (ITC) leakage.(https://github.com/amitmahajan09/GSTReco)
 
 🔍 [LedgerLens | MSME 45-Day Compliance Monitor
     Tech: Next.js 14, Firebase, n8n.
