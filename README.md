@@ -35,11 +35,13 @@
 🤖 [Capstone Project - Walmart](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Walmart)
 🔬 [Capstone Project - Netflix Movie Recommendation](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Netflix)
 
-### 🚀 Career Goals:
-I’m actively expanding my portfolio and open to:
-- 💼 Remote Data Science / AI roles
-- 🌍 Freelancing / Consulting in AI & Automation
-- 🏗️ Building a startup in Data Science and IT services
+### 🚀 Career Focus & Strategic Goals
+I am currently scaling my portfolio and am open to high-impact opportunities in:
+
+💼 AI Solution Architecture & Leadership: Design and implementation of Agentic Workflows that bridge legacy ERP systems (Epicor, Infor) with Generative AI.
+🌍 Strategic Consulting: Helping businesses navigate Financial & Statutory Compliance (GST/MSME) through AI-driven automation and "Private RAG" architectures.
+🏗️ SaaS Development: Scaling automated compliance infrastructure designed for the 1 million+ MSME sector in India.
+🛡️ Enterprise AI Security: Implementing Model Context Protocol (MCP) and secure AI frameworks for sensitive corporate data environments.
 
 ### New Additions: Claude Extended Thinking, Model Context Protocol (MCP), Agentic Workflows, n8n Automation.
 
