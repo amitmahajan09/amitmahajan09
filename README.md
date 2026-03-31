@@ -23,11 +23,13 @@
 ### 📁 Featured Projects:
 ⚖️ GSTRECO | AI-Powered Tax Reconciliation
     Tech: Python, Flask, Pandas, API.
-    Impact: Automates complex GSTR-2B reconciliation for Indian MSMEs to prevent Input Tax Credit (ITC) leakage.(https://github.com/amitmahajan09/GSTReco)
+    Impact: Automates complex GSTR-2B reconciliation for Indian MSMEs to prevent Input Tax Credit (ITC) leakage. 
+    [GSTReco](https://github.com/amitmahajan09/GSTReco)
 
-🔍 [LedgerLens | MSME 45-Day Compliance Monitor
+🔍 LedgerLens | MSME 45-Day Compliance Monitor
     Tech: Next.js 14, Firebase, n8n.
-    Impact: A specialized dashboard for monitoring MSME payment deadlines under Section 43B(h) of the Income Tax Act.(https://github.com/amitmahajan09/LedgerLens)
+    Impact: A specialized dashboard for monitoring MSME payment deadlines under Section 43B(h) of the Income Tax Act.
+    [LedgerLens](https://github.com/amitmahajan09/LedgerLens)
 
 📊 [Capstone Project - Covid 19](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/blob/main/Capstone%20Project%20(Covid%2019)/Capstone%20Project%20(Covid%2019).ipynb)
 🤖 [Capstone Project - Walmart](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Walmart)
