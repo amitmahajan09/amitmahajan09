@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Amit Kumar Mahajan
 
-🎯 **Data Science & AI Enthusiast | IT Head |**
+🎯 **🚀 AI Solutions Architect & IT Head with 20+ years experience | Building Open-Source Compliance Infrastructure**
 
-Welcome to my GitHub! I’m a passionate technology leader with 20+ years of experience in **IT infrastructure, server/networking, and ERP systems**, now diving deep into the world of **Data Science, Machine Learning, and AI**.
+**Technology leader with 20+ years of experience, now specializing in autonomous agentic workflows and financial compliance automation, using LLMs and RAG.**
 
 ### 💼 What I Do:
 - 🔍 Data Science & Machine Learning Projects
@@ -21,16 +21,29 @@ Welcome to my GitHub! I’m a passionate technology leader with 20+ years of exp
 - 🧠 Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, Machine Learning Models, Neural Network, FFN, CNN, LangChain, Huggingface, OpenAI, RAG
 
 ### 📁 Featured Projects:
-- 📊 [Capstone Project - Covid 19](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/blob/main/Capstone%20Project%20(Covid%2019)/Capstone%20Project%20(Covid%2019).ipynb)
-- 🤖 [Capstone Project - Walmart](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Walmart)
-- 🔬 [Capstone Project - Netflix Movie Recommendation](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Netflix)
+⚖️ GSTRECO | AI-Powered Tax Reconciliation
+    Tech: Python, Flask, Pandas, API.
+    Impact: Automates complex GSTR-2B reconciliation for Indian MSMEs to prevent Input Tax Credit (ITC) leakage.
+
+AI Integration: Uses LLM reasoning to resolve fuzzy-matched invoice discrepancies that traditional logic misses.
+
+🔍 LedgerLens | MSME 45-Day Compliance Monitor
+    Tech: Next.js 14, Firebase, n8n.
+    Impact: A specialized dashboard for monitoring MSME payment deadlines under Section 43B(h) of the Income Tax Act.
+
+📊 [Capstone Project - Covid 19](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/blob/main/Capstone%20Project%20(Covid%2019)/Capstone%20Project%20(Covid%2019).ipynb)
+🤖 [Capstone Project - Walmart](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Walmart)
+🔬 [Capstone Project - Netflix Movie Recommendation](https://github.com/amitmahajan09/Data-Science-AI-Portfolio/tree/main/Capstone%20Project%20Netflix)
 
 ### 🚀 Career Goals:
 I’m actively expanding my portfolio and open to:
 - 💼 Remote Data Science / AI roles
 - 🌍 Freelancing / Consulting in AI & Automation
 - 🏗️ Building a startup in Data Science and IT services
----
+
+### New Additions: Claude Extended Thinking, Model Context Protocol (MCP), Agentic Workflows, n8n Automation.
+
+### 🛠 Current Focus: Scaling open-source compliance agents to support 10k+ invoice reconciliations using high-throughput LLM reasoning.
 
 📫 **Let’s connect:**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amitkumahajan/)  
